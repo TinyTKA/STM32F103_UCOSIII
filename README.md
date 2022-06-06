@@ -1,2 +1,4 @@
 # STM32F103_UCOSIII
 STM32F103 CubeMX HAL 整合UCOSIII
+
+基于野火STM32F103ZET6核心板整合，内含STM32CubeMX配置文件，以及keil5文件，实测延时以及按键中断处理正常。
